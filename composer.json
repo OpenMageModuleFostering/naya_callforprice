@@ -1,16 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Naya_CallForPrice",
-    "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
-    "homepage": "",
-    "description": ""Naya - Call For Price" extension hides price and “add to cart” buttons from selected products, displays a custom message per product and removes product from “price filter”.",
-    "authors": [
-    {
-        "name": "Damir Perkosan",
-        "email": "dperkosan@gmail.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
